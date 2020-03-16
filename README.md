@@ -3,6 +3,8 @@
 ## Purpose
 This is a repository to hold a jQuery script library that assists in the manipulation of a DataGridView in older ASP.NET projects.
 
+The reason this can be found here is that there is no *known* public repository for this project.  For developers that may be working on older projects and would like a reference point I have set this up for that purpose.
+
 ## Dependencies
 These files have a minimum of a jQuery 1.10.2 dependency. Higher versions such as jQuery 3.4.1 are in the process of being tested for compatibility
 
