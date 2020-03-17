@@ -9,7 +9,7 @@ The reason this can be found here is that there is no *known* public repository 
 These files have a minimum of a jQuery 1.10.2 dependency. Higher versions such as jQuery 3.4.1 are in the process of being tested for compatibility
 
 ## Updates
-### Origianl Author
+### Original Author
 * The last known update of this script by the original author was 2011/02/23
 
 ### CBuckneberg
